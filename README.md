@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="desk-booking-simulator" width="100%"></p>
+
 # desk-booking-simulator
 
 Replays a list of desk requests against booking rules and shows which ones are accepted, which are rejected and why.
