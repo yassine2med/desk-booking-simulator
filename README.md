@@ -2,6 +2,8 @@
 
 # desk-booking-simulator
 
+[![CI](https://github.com/yassine2med/desk-booking-simulator/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/desk-booking-simulator/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Replays a list of desk requests against booking rules and shows which ones are accepted, which are rejected and why.
 
 ![Screenshot](docs/screenshot.png)
